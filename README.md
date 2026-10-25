@@ -28,7 +28,3 @@ Implementar um formulário de cadastro de usuário utilizando Flutter, com campo
 3. Entre na pasta do projeto.
 4. Execute `flutter pub get`.
 5. Execute `flutter run`.
-
-## Observação
-
-O projeto demonstra validações no formulário. Ele não realiza persistência de dados nem integração com um servidor.
